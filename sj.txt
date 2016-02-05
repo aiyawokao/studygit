@@ -5,4 +5,4 @@ Stupid!!
 Creating a new branch is quick and simple.
 Merge! GGG
 aaaaaaaaaaaaaaaaaaa---
-Git tracks changes.
+Git tracks changes of files.
