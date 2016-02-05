@@ -1,5 +1,7 @@
-djkd jdkja 
-dkjskj d ls  d dkjk d.
-djdkkdk kjdkdk kd kdk hd kjsd kd s l
-1!
-
+Git is a distributed version control system.
+Git is a free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes.
+Stupid!!
+Creating a new branch is quick and simple.
+Merge!
